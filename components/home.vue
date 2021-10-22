@@ -204,7 +204,7 @@
     <div class="text-center mt-14">
         <h2 class="text-2xl sm:text-3xl font-medium mb-5">Who Am I?</h2>
         <div class="flex flex-col sm:flex-row items-center justify-center gap-5 sm:gap-14 sm:mx-28 xl:mx-56">
-            <img class="w-32 sm:w-40 h-32 sm:h-40 order-2 rounded-full border border-blue-200 shadow-md" src="https://twitter.com/KevinCotoDev/photo"/>
+            <img class="w-32 sm:w-40 h-32 sm:h-40 order-2 rounded-full border border-blue-200 shadow-md" src="./kevincoto.jpg"/>
             <p class="order-1 text-lg">I'm a junior web developer that want to create some side-projects and work with clever and interesting people around the world. I want to work with you, <a class="text-blue-400 underline">let's to connect</a></p>
         </div>
         </div>
